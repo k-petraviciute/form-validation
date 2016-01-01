@@ -55,7 +55,7 @@ form#registrationForm fieldset input {
 	margin-bottom: 20px;
 	border-bottom: 1px solid #ddd;
     background-color: rgba(255,255,255,0);
-    padding-bottom: 5px;
+    padding: 0 0 5px 0;
     transition: all .35s linear;
     position: relative;
 }
